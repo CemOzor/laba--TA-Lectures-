@@ -1,0 +1,1 @@
+Readme.md dosyasına değişiklikler yapmak ve bunları branch’a eklemek
